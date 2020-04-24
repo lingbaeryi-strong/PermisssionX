@@ -1,6 +1,5 @@
-package com.permissionx.guolindev
+package com.permissionx.lingbaeryi
 
-import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentActivity
 
 /**

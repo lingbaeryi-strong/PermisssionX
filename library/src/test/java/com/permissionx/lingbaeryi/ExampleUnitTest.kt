@@ -1,4 +1,4 @@
-package com.permissionx.guolindev
+package com.permissionx.lingbaeryi
 
 import org.junit.Test
 
